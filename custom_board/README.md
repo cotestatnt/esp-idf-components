@@ -5,7 +5,7 @@ ESP-CUSTOM-KIT is an ESP32-S3 based development board.
 
 ESP-CUSTOM-KIT features the following integrated components:
 
-* ESP32-CUSTOM-E module
+* ESP32-S3 module
 * 0.96" 80*160 LCD screen
 * Joypad board module
 
